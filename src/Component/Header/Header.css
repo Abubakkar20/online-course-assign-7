@@ -1,0 +1,28 @@
+img{
+    width: 1200px;
+    height: 250px;
+}
+.header-content{
+text-align: center;
+
+}
+nav{
+    background:black;
+    line-height: 50px;
+    font-size: 22px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 10px;
+    
+}
+nav a:hover{
+    background: darkgray;
+}
+.header-btn{
+    font-size: 15px;
+    padding:7px
+}

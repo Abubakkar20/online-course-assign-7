@@ -1,0 +1,26 @@
+.course-container{
+display: flex;
+
+}
+.courseInfo{
+    width:70%;
+    margin-left: 40px;
+    margin-right: 10px;
+    border-right: 1px solid black;
+}
+.elemant-btn{
+    border-radius: 5px;
+    background:yellowgreen;
+    color: white;
+    padding:5px;
+    cursor: pointer;
+    width: 100px;
+    height: 40px;
+}
+.elemant-btn:hover{
+    background:rgb(11, 241, 153);
+}
+.course-h2{
+    color: yellowgreen;
+    text-align: center;
+}
